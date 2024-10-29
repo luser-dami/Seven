@@ -35,7 +35,10 @@ bool checkMonthAndDay()
 
 }
 
-
+void InitClass()
+{
+    cout<<"Init"<<endl;
+}
 
 
 
@@ -49,3 +52,4 @@ int main(int argc, char* argv[])
     if(Year&&DayAndMonth) cout<<"Valid"<<endl;
     return 0;
 }
+
