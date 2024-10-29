@@ -38,6 +38,7 @@ bool checkMonthAndDay()
 void InitClass()
 {
     cout<<"Init"<<endl;
+    cout<<"Year"<<endl;
 }
 
 
